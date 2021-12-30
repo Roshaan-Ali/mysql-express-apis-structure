@@ -1,0 +1,17 @@
+{
+    "origin": "http://localhost:6000",
+    "db": {
+        "name": "development"
+    },
+    "sql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "run_mator"
+    },
+    "twilio": {
+        "service_SID": "VAf30162392fa7a345a37c7b1e77bb0bbf",
+        "account_SID": "ACef260d6be85f7fed5cfb56cca6ed1942",
+        "account_Token": "feeaa7637f1961650d43e7b21ff641a1"
+    }
+}
